@@ -35,7 +35,7 @@ adlı fonksiyonu hazırlayalım.*/
 		}
 
 		void main(){
-		  String isim = "Berke";
+		  String isim = "name";
 		  print(selamGonder(isim));
 		}
 
